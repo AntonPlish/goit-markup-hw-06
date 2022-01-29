@@ -461,7 +461,7 @@ body {
 
 .modal-form-text-link {
   margin-left: 5px;
-  border-color: var(--blue-color);
+  color: var(--blue-color);
 }
 
 .modal-form-button {
